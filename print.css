@@ -1,0 +1,5 @@
+@media print {
+    .justspace, video,footer, audio{
+        display: none;
+    }
+}
